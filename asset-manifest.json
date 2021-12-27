@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jingkangv2/static/css/main.534dcf34.css",
+    "main.js": "/jingkangv2/static/js/main.46efbd2b.js",
+    "static/js/787.1b0f5e01.chunk.js": "/jingkangv2/static/js/787.1b0f5e01.chunk.js",
+    "static/media/logo.svg": "/jingkangv2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jingkangv2/index.html",
+    "main.534dcf34.css.map": "/jingkangv2/static/css/main.534dcf34.css.map",
+    "main.46efbd2b.js.map": "/jingkangv2/static/js/main.46efbd2b.js.map",
+    "787.1b0f5e01.chunk.js.map": "/jingkangv2/static/js/787.1b0f5e01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.534dcf34.css",
+    "static/js/main.46efbd2b.js"
+  ]
+}
